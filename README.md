@@ -8,7 +8,7 @@
 * 🔭 I’m currently learning & practicing **Ethical Hacking & Penetration Testing**.
 * 🎯 Focus: **Web Application Security, Network Pentesting, Bug Bounty**.
 * 💬 Ask me about: **Linux, Networking, Python for Hackers**.
-* 📫 How to reach me: **[Your Social Link/LinkedIn]**
+* 📫 How to reach me: **[My website:- https://6a3760cab8a0ec437096fadf--ashutosh-secure.netlify.app/]**
 
 ---
 
